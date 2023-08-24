@@ -1,29 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T20:32:33.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="myYpe_4OyH286SftZoxx" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T20:39:26.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zPOCKi30zRDcomTsXbjK" version="21.2.1" type="github">
   <diagram name="Page-1" id="vVXSdAFtz8uP6ZpRu3tx">
-    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-1" target="5EUE_wpnl3A7IQsI-HqW-2">
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5EUE_wpnl3A7IQsI-HqW-1" target="5EUE_wpnl3A7IQsI-HqW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-1" value="Search new user report" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-1" value="Search new user report" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-2" target="5EUE_wpnl3A7IQsI-HqW-4">
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5EUE_wpnl3A7IQsI-HqW-2" target="5EUE_wpnl3A7IQsI-HqW-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-2" value="search WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-2" value="search WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-4" target="5EUE_wpnl3A7IQsI-HqW-6">
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5EUE_wpnl3A7IQsI-HqW-4" target="5EUE_wpnl3A7IQsI-HqW-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-4" value="GET task from&amp;nbsp; WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-4" value="GET task from&amp;nbsp; WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5EUE_wpnl3A7IQsI-HqW-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-6" target="gxKWUP_uDM2MAdw7EW2u-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-6" target="gxKWUP_uDM2MAdw7EW2u-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-6" value="Router" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxKWUP_uDM2MAdw7EW2u-1" target="gxKWUP_uDM2MAdw7EW2u-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-1" value="New User doesn&#39;t log in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-3" value="resend email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxKWUP_uDM2MAdw7EW2u-5" target="gxKWUP_uDM2MAdw7EW2u-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-5" value="User logs in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxKWUP_uDM2MAdw7EW2u-7" target="gxKWUP_uDM2MAdw7EW2u-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-7" value="search WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxKWUP_uDM2MAdw7EW2u-9" target="gxKWUP_uDM2MAdw7EW2u-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-9" value="GET WF Request Queue Task" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxKWUP_uDM2MAdw7EW2u-11" target="gxKWUP_uDM2MAdw7EW2u-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-11" value="Update User object with permissions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxKWUP_uDM2MAdw7EW2u-13" target="gxKWUP_uDM2MAdw7EW2u-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-13" value="Update User object with Template" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gxKWUP_uDM2MAdw7EW2u-15" value="Update user with ZPA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
