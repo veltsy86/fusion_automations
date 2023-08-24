@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-08-24T20:32:33.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="myYpe_4OyH286SftZoxx" version="21.2.1" type="github">
+  <diagram name="Page-1" id="vVXSdAFtz8uP6ZpRu3tx">
+    <mxGraphModel dx="1434" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-1" target="5EUE_wpnl3A7IQsI-HqW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-1" value="Search new user report" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-2" target="5EUE_wpnl3A7IQsI-HqW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-2" value="search WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5EUE_wpnl3A7IQsI-HqW-4" target="5EUE_wpnl3A7IQsI-HqW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-4" value="GET task from&amp;nbsp; WF Request queue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5EUE_wpnl3A7IQsI-HqW-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
