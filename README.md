@@ -7,15 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>New User Automation</title>
     <meta name="description" content="Case study page of Project" />
-
-    <link rel="stylesheet" href="css/style.css" />
-
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
-      rel="stylesheet"
-    />
   </head>
   <body>
     <header class="header">
@@ -28,7 +19,7 @@
               class="header__logo-img"
             />
           </div>
-          <span class="header__logo-sub">John Doe</span>
+          <span class="header__logo-sub">Eric Velt</span>
         </div>
         <div class="header__main">
           <ul class="header__links">
