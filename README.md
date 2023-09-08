@@ -14,8 +14,8 @@
         <div class="header__logo-container">
           <div class="header__logo-img-cont">
             <img
-              src="./assets/png/original.png"
-              alt="Ram Maheshwari Logo Image"
+              src="./Original.png"
+              alt="Taurus Technology Consultants"
               class="header__logo-img"
             />
           </div>
