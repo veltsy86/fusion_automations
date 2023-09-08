@@ -14,7 +14,7 @@
         <div class="header__logo-container">
           <div class="header__logo-img-cont">
             <img
-              src="./fusion_automations/New User Fusion.png"
+              src="./new user fusion.png"
               alt="New User Fusion"
               class="header__logo-img"
             />
