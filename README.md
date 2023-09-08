@@ -14,8 +14,8 @@
         <div class="header__logo-container">
           <div class="header__logo-img-cont">
             <img
-              src="./Original.png"
-              alt="Taurus Technology Consultants"
+              src="./New User Fusion.png"
+              alt="New User Fusion"
               class="header__logo-img"
             />
           </div>
