@@ -78,9 +78,7 @@
         <h1 class="heading-primary">Project 1</h1>
         <div class="project-cs-hero__info">
           <p class="text-primary">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-            in numquam incidunt earum quaerat cum fuga, atque similique natus
-            nobis sit.
+            The Fusion program is a back-end automation platform in the Adobe Workfront Management System.  The fusion automations can automate any thing within the system with webhooks and API calls within the system and to other third-party apps like Jira and Airtable.  The Fusion platform has a plethora of modules, triggers, tools and aggregators/iterators to construct your automation.  There are terminologies that are different and unique to the Fusion platform.  To start, the entire automation is called a scenario.  Furthermore, the data travels along a route through a series of modules which can be triggers of different types. The route is identified as the dotted lines you see in the image below.  Each module has a different color defining their action or trigger throughout the scenario.
           </p>
         </div>
         <div class="project-cs-hero__cta">
